@@ -1,7 +1,6 @@
-When I was testing on Tux, I find that just typing "make" couldn't find the makefile nor compile the program.
-However, typing "make -f makefile.txt" would work. I am wondering if there is something wrong with my makefile or other reasons? 
+# Sliding Brick Puzzle
 
-///////////////////////////////////////////////////////////////////////////////////
+First heuristic is A* search.
 
 The second heuristic is to count how many moves for a master brick to reach the goal.
 
