@@ -1,4 +1,4 @@
-# Sliding Brick Puzzle
+Sliding Brick Puzzle
 
 First heuristic is A* search.
 
